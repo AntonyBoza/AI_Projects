@@ -1,2 +1,1 @@
-An Airline Chatbot Assistant trained to provide assitance and real-time information to Customers.
-We used Langchaing, FAISS vector database, TogetherAI as LLM API provider, Meta-Llama-3.1 model.
+Projects related to different Business Cases, using cutting-edge AI models, such like OpenAI GPT-5, Anthropic Claude Sonnet 4, Meta Llama 4, and many others.
